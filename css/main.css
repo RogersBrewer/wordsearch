@@ -1,0 +1,64 @@
+
+#container{
+	margin: 4% 26% 2% 26%;
+}
+
+
+/*#body div{
+	
+	display: inline-block;
+	width: 40px;
+	height: 40px;	
+	padding: 1px;
+
+}*/
+
+/*div{
+	padding: 1px;
+	margin: 1px;
+}*/
+ .li{
+	position: relative;
+	top: -540px;
+	width: 100px;
+
+}
+
+
+.btn{
+	/*background-color:red;*/
+	text-align: center;
+	font-size: 2em;
+	height: 50px;
+	width: 50px;
+	padding: 2px;
+}
+
+.good{
+	background-color: red;
+	text-align: center;
+	font-size: 2em;
+	height: 50px;
+	width: 50px;
+	padding: 2px;
+}
+
+.bad{
+	background-color: gray;
+	text-align: center;
+	font-size: 2em;
+	height: 50px;
+	width: 50px;
+	padding: 2px;
+}
+
+body .btn.on {
+	background-color: red;
+	color:white;
+}
+
+body .btn.off {
+	background-color: #dddddd;
+	color:black;
+}
+
